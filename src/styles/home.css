@@ -39,20 +39,17 @@ body {
 	font-weight: 500;
 }
 
-u {
-	text-decoration: underline;
-}
 
-u.yellow {
+span.yellow {
 	color: var(--color-in-secundary-500);
 }
 
 
-u.red {
+span.red {
 	color: var(--color-in-red-500);
 }
 
-.onda {
+.wave {
 	position: absolute;
 	bottom: -10px;
 	overflow: hidden;
