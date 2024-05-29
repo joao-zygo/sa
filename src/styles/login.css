@@ -99,7 +99,7 @@ button.button {
     margin-bottom: 1.5rem;
 }
 
-.create-account {
+.create-account { /* Criar conta */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -107,11 +107,11 @@ button.button {
     width: 100%;
     font-size: 0.68rem;
 }
-.create-account img {
+.create-account img { /* Imagem de "Criar Conta" */
     width: 110px;
 }
 
-.create-account .button {
+.create-account .button { /* Botão para "Criar Conta" */
     color: white;
     font-size: 1rem;
 }

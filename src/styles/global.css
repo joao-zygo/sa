@@ -1,4 +1,4 @@
-:root {
+:root { /* Cores base */
 	--color-primary-500: #4ADE80;
 	--color-primary-600: #22C55E;
 	--color-in-primary: #064E3B;
@@ -40,19 +40,19 @@
 	box-shadow: 0px 12px var(--color-in-primary);
 }
 
-.button:active {
+.button:active { /* Botão ao ser clicado */
 	transform: translateY(8px);
 
 	box-shadow: 0px 4px var(--color-in-primary);
 }
 
-.button.yellow:active {
+.button.yellow:active { /* Botão amarelo ao ser clicado */
 	transform: translateY(8px);
 
 	box-shadow: 0px 4px var(--color-in-secundary-600);
 }
 
-.button.yellow {
+.button.yellow { /* Botão amarelo */
 	--shadow-color: var(--color-in-secundary-600);
 	border-color: var(--color-in-secundary-600);
 	box-shadow: 0px 12px var(--color-in-secundary-600);

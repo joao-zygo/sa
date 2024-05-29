@@ -16,7 +16,7 @@ body {
 	padding-bottom: 3rem;
 }
 
-.hero {
+.hero { /* Imagem menino */
 	width: 100%;
 	display: flex;
 	justify-content: center;
@@ -40,12 +40,12 @@ body {
 }
 
 
-span.yellow {
+span.yellow { /* Palavra "divertido" na home */
 	color: var(--color-in-secundary-500);
 }
 
 
-span.red {
+span.red { /* Palavra "trânsito" na home */
 	color: var(--color-in-red-500);
 }
 

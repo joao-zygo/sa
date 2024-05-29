@@ -4,7 +4,7 @@
     width: 100%;
 }
 
-.progress-bar {
+.progress-bar { /* Barra de progresso */
     height: 3px;
     width: 1fr;
     background-color: #00000066;
