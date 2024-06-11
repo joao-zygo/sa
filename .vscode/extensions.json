@@ -8,6 +8,8 @@
     "bradlc.vscode-tailwindcss",
     "otovo-oss.htmx-tags",
     // "vscodevim.vim",
+    "dbaeumer.vscode-eslint",
+    "ritwickdey.LiveServer",
     "bmewburn.vscode-intelephense-client"
   ]
 }
