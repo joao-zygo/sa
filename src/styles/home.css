@@ -57,6 +57,10 @@ span.red {
 	z-index: -2;
 }
 
+.wave img {
+	width: 100%;
+}
+
 .logos {
 	display: flex;
     gap: 1.8rem;
