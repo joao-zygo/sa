@@ -39,3 +39,14 @@ header .content {
   left: 0;
   z-index: 0;
 }
+
+.text {
+  padding: 3rem 1.5rem;
+  font-size: 1.2rem;
+}
+
+footer {
+  padding: 0.6rem 1rem;
+  background-color: var(--color-primary-500);
+  color: #FFF;
+}
